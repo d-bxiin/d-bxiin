@@ -1,5 +1,6 @@
 ### Hi there 👋
-# [My blog](https://d-bxiin.tistory.com/)
+## Thank you for comming !
+## [♥ Try to visit my blog ♥](https://d-bxiin.tistory.com/)
 
 <!--
 **d-bxiin/d-bxiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
